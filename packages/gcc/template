@@ -1,0 +1,8 @@
+short_desc="GNU project C and C++ compiler"
+version="10.2.0"
+revision="1"
+distfiles="https://ftp.gnu.org/gnu/gcc/gcc-${version}/gcc-${version}.tar.gz"
+build_style="makefile"
+configure_args="--disable-multilib"
+CC="cc"
+license="GPL-3.0-or-later"

@@ -1,0 +1,7 @@
+short_desc="Image viewer for X11 and Wayland"
+version="4.2.0"
+revision="1"
+distfiles="https://github.com/eXeC64/imv/archive/refs/tags/v${version}.tar.gz"
+build_style="meson"
+license="MIT"
+license_file="LICENSE"
