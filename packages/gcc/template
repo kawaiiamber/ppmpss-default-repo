@@ -1,5 +1,5 @@
 short_desc="GNU project C and C++ compiler"
-version="10.2.0"
+version="10.2.1"
 revision="1"
 distfiles="https://ftp.gnu.org/gnu/gcc/gcc-${version}/gcc-${version}.tar.gz"
 build_style="makefile"
